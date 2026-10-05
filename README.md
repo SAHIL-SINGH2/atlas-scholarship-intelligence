@@ -98,3 +98,10 @@ Aggregators may be used for discovery research, but the repository's authoritati
 
 ## Limitations
 Some official portals expose full eligibility through linked PDFs, FAQs, login pages or application flows. The system intentionally records missing details as `Not specified` rather than guessing. Captcha/login/private endpoints are not bypassed.
+## Screenshots
+<img width="1906" height="901" alt="Screenshot 2026-10-05 215550" src="https://github.com/user-attachments/assets/9964b54c-be52-4132-afeb-a9d2c66543ee" />
+
+<img width="1912" height="905" alt="Screenshot 2026-10-05 215649" src="https://github.com/user-attachments/assets/4c95ed63-e046-4339-b799-101e08c079ee" />
+
+<img width="1907" height="911" alt="Screenshot 2026-10-05 215704" src="https://github.com/user-attachments/assets/6daae5f0-3b83-4322-9a54-62fc9e9267a3" />
+
